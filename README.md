@@ -16,7 +16,9 @@ The following main dependencies were used to create this app:
 -	JPA => Java Persistence to connect the data to the database MySQL.
 -	JQuery => Ajax to include asynchronous features and make the web app dynamic. 
 -	Spring Security Authentication and Authorization for login process.
+
 Feature Expansion
+
 The plan is to expand this project so that the app can:
 -	Allow members to upload files: text, image, video and audio types.
 -	Allow members to choose from different templates to structure the view of their profile.

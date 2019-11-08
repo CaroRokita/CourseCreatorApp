@@ -26,6 +26,7 @@ The plan is to expand this project so that the app can:
 -	Allow members to rate courses based on stars.
 -	To create a general display in which all courses can be displayed and members can search for courses available to purchase or try for free. 
 -	To make 2 type of Admin roles: 
+
 	One that maintains the site
 
 	One that is uploading courses material and can manage who gets access to their material by setting up to free or a price to access etc. 

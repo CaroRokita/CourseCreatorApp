@@ -21,7 +21,7 @@ Course Creator App is a Java Web App created based on the MVC design pattern con
 
 -	Allows members to sign out.
 
-  > After some research on how to simplify the developing process, I decided to use Spring Tool Suite as the IDE to create a   
+  > After some research on how to simplify the developing process, I decided to use Spring Tool Suite as the IDE to create a
     microservice with the Spring Boot Framework. Spring allows to wire in (through auto-wiring) dependencies and this allows to make a 
     very de-coupled program. Decoupled in the sense that there are not a lot of objects that depend on each other; by breaking up the 
     dependencies a bit, when changing an object, it is not going to be fully affecting another object. 

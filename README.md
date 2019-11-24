@@ -36,7 +36,7 @@ The following main dependencies were used to create this app:
 
 -	Spring Security Authentication and Authorization for login process.
 
-##Feature Expansion
+## Feature Expansion
 
 The plan is to expand this project with the following features:
 

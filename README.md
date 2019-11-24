@@ -2,7 +2,7 @@
 
 Course Creator App is a Java Web App created based on the MVC design pattern concept; it has the following features:
 
--	IT allows users to register or existing members to login.
+-	It allows users to register or existing members to login.
 
   > If a member with the same email exists, it displays message:  "Error: This user account already exists."
   
@@ -11,15 +11,15 @@ Course Creator App is a Java Web App created based on the MVC design pattern con
     or also offer courses viewed by only selected people. The very basic base for this was already set up within the code by creating:
     public class Authorities implements GrantedAuthority.
     
--	Encrypts the passwords of all members.
+-	It encrypts the passwords of all members.
 
--	Displays a list of all the unique courses as soon as the member signs in or display no courses if there is none in her/his account.
+-	It displays a list of all the unique courses as soon as the member signs in or display no courses if there is none in her/his account.
 
--	Allows members to create a Course, a Section and a Lesson within each course respectively.
+-	It allows members to create a Course, a Section and a Lesson within each course respectively.
 
--	Allows the removal of a course.
+-	It allows the removal of a course.
 
--	Allows members to sign out.
+-	It allows members to sign out.
 
   > After some research on how to simplify the developing process, I decided to use Spring Tool Suite as the IDE to create a
     microservice with the Spring Boot Framework. Spring allows to wire in (through auto-wiring) dependencies and this allows to make a 

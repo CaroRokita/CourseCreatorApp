@@ -6,10 +6,10 @@ Course Creator App is a Java Web App created based on the MVC design pattern con
 
   > If a member with the same email exists, it displays message:  "Error: This user account already exists."
   
-  > Currently each member can only see their unique profile based on the courses each one creates etc. However, the idea is to    
-    create special features for admin members and special features for regular members; allowing eventually for everyone to see public  
-    courses or also offer courses viewed by only selected people. The very basic base for this was already set up within the code by 
-    creating: public class Authorities implements GrantedAuthority.
+  > Currently each member can only see their unique profile based on the courses each one creates etc. However, the idea is to create
+    special features for admin members and special features for regular members; allowing eventually for everyone to see public courses
+    or also offer courses viewed by only selected people. The very basic base for this was already set up within the code by creating:
+    public class Authorities implements GrantedAuthority.
     
 -	Encrypts the passwords of all members.
 

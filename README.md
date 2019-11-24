@@ -20,10 +20,10 @@ The following main dependencies were used to create this app:
 
 Feature Expansion
 
-The plan is to expand this project so that the app can:
--	Allow members to upload files: text, image, video and audio types.
--	Allow members to choose from different templates to structure the view of their profile.
--	Allow members to rate courses based on stars.
+The plan is to expand this project with the following features:
+-	To allow members to upload files: text, image, video and audio types.
+-	To allow members to choose from different templates to structure the view of their profile.
+-	To allow members to rate courses based on stars.
 -	To create a general display in which all courses can be displayed and members can search for courses available to purchase or try for free. 
 -	To make 2 type of Admin roles: 
 

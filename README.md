@@ -1,5 +1,4 @@
 # Course Creator App
-Online Course App
 
 Course Creator App is a Java Web App created based on the MVC design pattern concept; it has the following features:
 -	Allows users to register or existing members to login.

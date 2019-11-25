@@ -54,4 +54,15 @@ The plan is to expand this project with the following features:
 
 	One that is uploading courses material and can manage who gets access to their material by setting up to free or a price to access etc. 
 
+## Pictures of Demos
+
 ![Demo1](Demo1.JPG)
+![Demo1B](Demo1B.JPG)
+![Demo2](Demo2.JPG)
+![Demo3](Demo3.JPG)
+![Demo4](Demo4.JPG)
+![Demo5](Demo5.JPG)
+![Demo5B](Demo5B.JPG)
+![Demo5C](Demo5C.JPG)
+![Demo6](Demo6.JPG)
+![Demo7](Demo7.JPG)

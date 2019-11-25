@@ -54,3 +54,4 @@ The plan is to expand this project with the following features:
 
 	One that is uploading courses material and can manage who gets access to their material by setting up to free or a price to access etc. 
 
+![Screenshot](Demo1.jpg)
